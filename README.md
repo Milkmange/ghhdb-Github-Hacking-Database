@@ -47,3 +47,11 @@ Search | Description
 ------ | -----
 filename:mega-recoverykey.txt | Mega.nz 2FA Recovery Code
 filename:github-recovery-codes.txt| Github 2FA Recovery Code
+
+
+
+### Misc
+
+Search | Description
+------ | -----
+"Sha1-Hulud: The Second Coming." | Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft
