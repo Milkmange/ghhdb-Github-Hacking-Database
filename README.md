@@ -55,3 +55,4 @@ filename:github-recovery-codes.txt| Github 2FA Recovery Code
 Search | Description
 ------ | -----
 "Sha1-Hulud: The Second Coming." | Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft
+"igsh=" | Instagram's in share button igsh parameter tracker
